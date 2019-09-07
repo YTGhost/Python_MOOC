@@ -1,9 +1,10 @@
 import time
+
 ''' strftime(tpl,ts)
 tpl格式化的格式
 ts输入的计算机时间格式的时间'''
 t = time.gmtime()
-print("{}".format(time.strftime("%Y-%m-%d %H:%M:%S",t)))
+print("{}".format(time.strftime("%Y-%m-%d %H:%M:%S", t)))
 '''
 %Y 年份 0000~9999
 %m 月份 01~12
@@ -18,10 +19,8 @@ print("{}".format(time.strftime("%Y-%m-%d %H:%M:%S",t)))
 %M 分钟 00~59
 %S 秒 00~59'''
 timeStr = '2018-01-26 12:55:20'
-print("{}".format(time.strptime(timeStr,"%Y-%m-%d %H:%M:%S")))
+print("{}".format(time.strptime(timeStr, "%Y-%m-%d %H:%M:%S")))
 '''
 time.strftime 与 time.strptime 是一对
 前者将计算机的时间格式转换成我们所想要的格式
 后者将用户输入进来的一串关于时间的字符串转换为计算机能读懂时间类型
-
-

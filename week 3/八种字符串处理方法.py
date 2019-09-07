@@ -7,4 +7,3 @@ str.center(width[,fillchar]) 字符串str根据宽度width居中，fillchar可�
 str.strip(chars) 从str中去掉在其左侧和右侧chars中列出的字符
 str.join(iter) 在iter变量除最后元素外每个元素后增加一个str‘,’
 '''
-

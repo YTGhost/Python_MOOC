@@ -1,5 +1,6 @@
-from turtle import*
-setup(800,600)
+from turtle import *
+
+setup(800, 600)
 width(5)
 pencolor("black")
 pu()

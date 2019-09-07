@@ -24,7 +24,3 @@ choice(seq)
 
 shuffle(seq)
 将序列seq中元素随机排列，返回打乱后的序列
-
-
-
-

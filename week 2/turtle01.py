@@ -1,4 +1,5 @@
 import turtle
+
 turtle.left(45)
 turtle.fd(150)
 turtle.right(135)

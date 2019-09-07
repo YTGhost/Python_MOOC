@@ -1,5 +1,5 @@
-Str,n = input().split(",")
-for i in Str :
+Str, n = input().split(",")
+for i in Str:
     if i == n:
         continue
-    print(i,end="")
+    print(i, end="")

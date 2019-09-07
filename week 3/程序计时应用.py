@@ -1,4 +1,5 @@
 import time
+
 '''
 perf_counter()
 返回一个CPU级别的精确时间计数值，单位为秒。
