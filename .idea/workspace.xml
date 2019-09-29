@@ -2,42 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cab7b69c-8e54-4f0d-a643-ff023b438eeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/Digital_tube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/Digital_tube.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/Digital_tube.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/warn-Digital_tube.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/build/Digital_tube/xref-Digital_tube.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.2/dist/Digital_tube.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.3/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.3/Hanoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.3/recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.3/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/Digital_tube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/Digital_tube.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/Digital_tube.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/warn-Digital_tube.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/build/Digital_tube/xref-Digital_tube.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.4/dist/Digital_tube.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 5/5.5/KochDrawV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.1/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.1/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.3/CalStatisticsV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.4/Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.5/jiebatest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.6/CalHamletV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.6/CalThreeKingdomsV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.6/CalThreeKingdomsV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.6/hamlet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/6.6/threekingdoms.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_MOOC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_MOOC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,6 +40,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -70,10 +49,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\VS-Python\Python_MOOC\week6\6.6" />
       <recent name="C:\VS-Python\Python_MOOC\week 5\5.3" />
     </key>
   </component>
@@ -89,74 +69,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.KochDrawV1">
-    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CalThreeKingdomsV2">
+    <configuration name="CalHamletV1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 5/5.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/6.6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\VS-Python\Python_MOOC\week 5\5.3\Fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/6.6/CalHamletV1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CalThreeKingdomsV1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 5/5.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/6.6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\VS-Python\Python_MOOC\week 5\5.3\Hanoi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/6.6/CalThreeKingdomsV1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KochDrawV1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CalThreeKingdomsV2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 5/5.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/6.6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 5/5.5/KochDrawV1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/6.6/CalThreeKingdomsV2.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python_MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,36 +135,52 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 5/5.2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\VS-Python\Python_MOOC\week 5\5.3\recursion.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jieba" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 5/5.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/6.5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\VS-Python\Python_MOOC\week 5\5.3\reverse.py" />
+      <option name="SCRIPT_NAME" value="C:\VS-Python\Python_MOOC\week6\6.5\jiebatest.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jiebatest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_MOOC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/6.5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/6.5/jiebatest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -202,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KochDrawV1" />
-        <item itemvalue="Python.Hanoi" />
-        <item itemvalue="Python.Fibonacci" />
-        <item itemvalue="Python.recursion2" />
-        <item itemvalue="Python.recursion" />
+        <item itemvalue="Python.CalThreeKingdomsV2" />
+        <item itemvalue="Python.CalThreeKingdomsV1" />
+        <item itemvalue="Python.CalHamletV1" />
+        <item itemvalue="Python.jiebatest" />
+        <item itemvalue="Python.jieba" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +209,14 @@
       <updated>1567861352492</updated>
       <workItem from="1567861359229" duration="3033000" />
       <workItem from="1567864429435" duration="912000" />
-      <workItem from="1567920761967" duration="13231000" />
+      <workItem from="1567920761967" duration="14246000" />
+      <workItem from="1568348931337" duration="56000" />
+      <workItem from="1568349061984" duration="5045000" />
+      <workItem from="1569672982658" duration="49000" />
+      <workItem from="1569673095359" duration="682000" />
+      <workItem from="1569723269550" duration="7569000" />
+      <workItem from="1569735533631" duration="1951000" />
+      <workItem from="1569737518177" duration="6174000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat code and add week5">
       <created>1567864532943</created>
@@ -231,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567864532943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add week5's codes">
+      <created>1567936706025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567936706025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,16 +278,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reformat code and add week5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reformat code and add week5" />
+    <MESSAGE value="add week5's codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add week5's codes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_MOOC$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1567865100997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.1" />
+    <SUITE FILE_PATH="coverage/Python_MOOC$CalStatisticsV1.coverage" NAME="CalStatisticsV1 Coverage Results" MODIFIED="1569734316381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/6.3" />
     <SUITE FILE_PATH="coverage/Python_MOOC$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1567927581514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.2" />
-    <SUITE FILE_PATH="coverage/Python_MOOC$KochDrawV1.coverage" NAME="KochDrawV1 Coverage Results" MODIFIED="1567936434526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.5" />
+    <SUITE FILE_PATH="coverage/Python_MOOC$KochDrawV1.coverage" NAME="KochDrawV1 Coverage Results" MODIFIED="1568350830237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.5" />
+    <SUITE FILE_PATH="coverage/Python_MOOC$random.coverage" NAME="random Coverage Results" MODIFIED="1568350970203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/6.1" />
+    <SUITE FILE_PATH="coverage/Python_MOOC$test.coverage" NAME="test Coverage Results" MODIFIED="1568352448451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/6.2" />
     <SUITE FILE_PATH="coverage/Python_MOOC$recursion2.coverage" NAME="recursion2 Coverage Results" MODIFIED="1567927674351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.2" />
     <SUITE FILE_PATH="coverage/Python_MOOC$turtle_hexagon.coverage" NAME="turtle hexagon Coverage Results" MODIFIED="1567923642975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2" />
     <SUITE FILE_PATH="coverage/Python_MOOC$Digital_tube.coverage" NAME="Digital_tube Coverage Results" MODIFIED="1567925767773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.2" />
     <SUITE FILE_PATH="coverage/Python_MOOC$Hanoi.coverage" NAME="Hanoi Coverage Results" MODIFIED="1567929845234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.2" />
+    <SUITE FILE_PATH="coverage/Python_MOOC$set.coverage" NAME="set Coverage Results" MODIFIED="1568350840438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/6.1" />
     <SUITE FILE_PATH="coverage/Python_MOOC$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1567928142299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 5/5.2" />
   </component>
 </project>
