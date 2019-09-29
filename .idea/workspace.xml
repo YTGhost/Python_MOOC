@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cab7b69c-8e54-4f0d-a643-ff023b438eeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cab7b69c-8e54-4f0d-a643-ff023b438eeb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +200,7 @@
       <workItem from="1569673095359" duration="682000" />
       <workItem from="1569723269550" duration="7569000" />
       <workItem from="1569735533631" duration="1951000" />
-      <workItem from="1569737518177" duration="7283000" />
+      <workItem from="1569737518177" duration="7530000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat code and add week5">
       <created>1567864532943</created>
