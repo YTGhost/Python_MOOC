@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cab7b69c-8e54-4f0d-a643-ff023b438eeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.1/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.1/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.2/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.3/CalStatisticsV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.4/Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.5/jiebatest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.6/CalHamletV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.6/CalThreeKingdomsV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.6/CalThreeKingdomsV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.6/hamlet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/6.6/threekingdoms.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_MOOC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_MOOC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -216,7 +202,7 @@
       <workItem from="1569673095359" duration="682000" />
       <workItem from="1569723269550" duration="7569000" />
       <workItem from="1569735533631" duration="1951000" />
-      <workItem from="1569737518177" duration="6174000" />
+      <workItem from="1569737518177" duration="7283000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat code and add week5">
       <created>1567864532943</created>
