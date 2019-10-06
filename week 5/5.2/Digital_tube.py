@@ -50,7 +50,7 @@ def main():
     turtle.penup()
     turtle.fd(-300)
     turtle.pensize(5)
-    drawDate(time.strftime('%Y-%m=%d+',time.gmtime()))
+    drawDate(time.strftime('%Y-%m=%d+', time.gmtime()))
     turtle.hideturtle()
     turtle.done()
 
